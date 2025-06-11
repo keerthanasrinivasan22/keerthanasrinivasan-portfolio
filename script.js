@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
     🌐 <strong>Want to try it yourself?</strong> Just click the "Live App" button and explore how the assistant responds to your inputs.</p>
 
     <div class="buttons">
-     <a href="https://drive.google.com/file/d/1Gwl6XxA21k_tbgjFoD34E5d_oE4fN1Ey/view?usp=sharing" target="_blank">🎥 Watch Demo</a>
+     <a href="https://drive.google.com/file/d/1Gwl6XxA21k_tbgjFoD34E5d_oE4fN1Ey/view?usp=sharing" target="_blank">🎥 Demo</a>
 
       <a href="https://medical-image-analysis-ks.streamlit.app/" target="_blank">🌐 Live App</a>
     </div>
