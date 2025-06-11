@@ -48,10 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
     🌐 <strong>Want to try it yourself?</strong> Just click the "Live App" button and explore how the assistant responds to your inputs.</p>
 
     <div class="buttons">
-      <video width="100%" controls>
-  <source src="videos/Medicalimage.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+     <a href="https://drive.google.com/file/d/FILE_ID/preview" target="_blank">🎥 Watch Demo</a>
 
       <a href="https://medical-image-analysis-ks.streamlit.app/" target="_blank">🌐 Live App</a>
     </div>
